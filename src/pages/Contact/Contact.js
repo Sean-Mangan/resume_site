@@ -34,7 +34,7 @@ const Contact = () =>
                                 <TextField fullWidth multiline rows={2} name='message' label='Message'/>
                             </Grid>
                             <Grid item xs={12}>
-                                <CustomButton text={'Submit'} link={'https://www.youtube.com/watch?v=4Hpkkqpwwkw&ab_channel=LILUZIVERT'}/>
+                                <CustomButton text={'Submit'}/>
                             </Grid>
                         </Grid>
                     </Grid>
