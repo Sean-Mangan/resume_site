@@ -95,7 +95,7 @@ export const resume_data = {
         skills: [
             {
                 title: 'Front-end',
-                description: ['ReactJS', 'Javascript', 'Typescript', 'Bootstrap']
+                description: ['ReactJS', 'Javascript', 'WebAssembly', 'Bootstrap']
             },
             {
                 title: 'Databases',
@@ -103,7 +103,7 @@ export const resume_data = {
             },
             {
                 title: 'Backend',
-                description: ['Python', 'Java', 'C', 'Perl']
+                description: ['Python', 'Java', 'C', 'Node']
             },
             {
                 title: 'AWS',
